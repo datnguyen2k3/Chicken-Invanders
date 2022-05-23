@@ -31,7 +31,7 @@ Nguyễn Thành Đạt - 21020299 - K66CC
     + Kế đến màn 2 sẽ là Boss, khi tiêu diệt boss người chơi sẽ chiến thắng
     + Khi Boss mất một nửa máu Boss sẽ được tăng tốc độ di chuyển
     + Kết thúc game, nếu người chơi chiến thắng và có thời gian chơi ngắn sẽ được lưu vào bảng xếp hạng
-  - Video demo:
+  - Video demo: https://www.youtube.com/watch?v=3pnVNDhPMPQ
 
 4. Các kỹ thuật lập trình được sử dụng:
   - Game lập trình hướng đối tượng
