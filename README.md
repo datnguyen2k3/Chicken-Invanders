@@ -21,7 +21,7 @@ Nguyễn Thành Đạt - 21020299 - K66CC
   - Cách chơi:
     + Sử dụng các nút A(sang trái), B(sang phải), W(đi lên), S(đi xuống) để di chuyển nhân vật
     + Sử dụng phím SPACE để có thể bắn đạn
-    + Sử dụng phím PAUSE để có thể tạm dừng trò chơi
+    + Sử dụng phím P để có thể tạm dừng trò chơi
     + Người chơi khởi đầu với 3 mạng
     + Khi nhân vật va chạm vs gà, boss, hoặc trứng, người chơi sẽ bị mất 1 mạng.
     + Khi nhân vật ăn được những quả cầu sẽ đc tăng cường đạn
