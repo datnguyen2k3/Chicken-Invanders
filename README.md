@@ -40,7 +40,7 @@ Nguyễn Thành Đạt - 21020299 - K66CC
   - Sử dụng kỹ thuật tạo animation cho game
   - Sử dụng kỹ thuật sử lí va chạm trong game
   - Sử dụng kĩ thuật sắp xếp để sắp xếp bảng xếp hạng
-  - Game có các chức năng: Pause, Menu, bảng xếp hạng, đồng hồ tính thời gian chơi game.
+  - Game có các chức năng: Pause, Menu, bảng xếp hạng, đồng hồ tính thời gian chơi game, game có thể chơi nhiều lần.
 
 5. Kết luận
   - Game hoàn toàn có thể phát triển thêm khi tạo ra nhiều loại đạn, thêm các màn mới, thêm nhân vật mới, chơi trên 2 người,..
