@@ -27,6 +27,7 @@ Nguyễn Thành Đạt - 21020299 - K66CC
     + Khi nhân vật ăn được những quả cầu sẽ đc tăng cường đạn
     + Màn 1 sẽ là 1 đàn gà, nhiệm vụ là phải tiêu diệt hết đàn gà
     + Sau khi tiêu diệt một nửa đàn gà, thì đàn gà sẽ được tăng tốc độ di chuyển
+    + Đàn gà sẽ đẻ ra những quả trứng trong lúc di chuyển
     + Kế đến màn 2 sẽ là Boss, khi tiêu diệt boss người chơi sẽ chiến thắng
     + Khi Boss mất một nửa máu Boss sẽ được tăng tốc độ di chuyển
     + Kết thúc game, nếu người chơi chiến thắng và có thời gian chơi ngắn sẽ được lưu vào bảng xếp hạng
