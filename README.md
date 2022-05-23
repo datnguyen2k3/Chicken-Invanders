@@ -35,11 +35,11 @@ Nguyễn Thành Đạt - 21020299 - K66CC
 
 4. Các kỹ thuật lập trình được sử dụng:
   - Game lập trình hướng đối tượng
-  - Sử dụng các kỹ thuật trong C++: class, vector, con trỏ, random,...
+  - Sử dụng các kỹ thuật trong C++: class, vector, con trỏ, random, nhập xuất file...
   - Sử dụng các kĩ thuật render ảnh, âm thanh.
   - Sử dụng kỹ thuật tạo animation cho game
   - Sử dụng kỹ thuật sử lí va chạm trong game
-  - Sử dụng kĩ thuật sắp xếp để sắp xếp bảng xếp hạng
+  - Sử dụng kĩ thuật sắp xếp để sắp xếp bảng xếp hạng, và nhập xuất file để lưu bxh
   - Game có các chức năng: Pause, Menu, bảng xếp hạng, đồng hồ tính thời gian chơi game, game có thể chơi nhiều lần.
 
 5. Kết luận
