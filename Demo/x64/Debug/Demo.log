@@ -1,0 +1,52 @@
+﻿  Background.cpp
+  Boss.cpp
+  Bullet.cpp
+  BulletPower.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\BulletPower.cpp(79,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Chicken.cpp
+  Egg.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Egg.cpp(32,45): warning C4244: 'return': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Egg.cpp(37,45): warning C4244: 'return': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  EggBig.cpp
+  game.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\game.cpp(307,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\game.cpp(306,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\game.cpp(390,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Information.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Information.cpp(30,24): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Information.cpp(92,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Information.cpp(102,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+  ManyBullets.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\ManyBullets.cpp(49,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  ManyChickens.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\ManyChickens.cpp(55,46): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+  ManyEgg.cpp
+  ManyEggBoss.cpp
+  Menu.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(11,39): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(16,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(21,38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(26,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(127,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(153,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(159,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(168,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Menu.cpp(177,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  Player.cpp
+  PointBoard.cpp
+  Standings.cpp
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Standings.cpp(5,24): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Standings.cpp(35,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Standings.cpp(95,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thanh\Desktop\Chicken-Invaders - Copy\Demo\Standings.cpp(105,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Demo.vcxproj -> C:\Users\thanh\Desktop\Chicken-Invaders - Copy\x64\Debug\Demo.exe
