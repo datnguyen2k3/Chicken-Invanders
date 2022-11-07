@@ -44,7 +44,5 @@ Nguyễn Thành Đạt - 21020299 - K66CC
 
 5. Kết luận
   - Game hoàn toàn có thể phát triển thêm khi tạo ra nhiều loại đạn, thêm các màn mới, thêm nhân vật mới, chơi trên 2 người,..
-  - Sau khi hoàn thành game, em cảm thấy đã nâng cao được kỹ năng lập trình của mình lên, học được cách tạo 1 project, debug, tìm tài liệu,...
-  - Những điều này chắc chắn sẽ giúp ích trên con đường sự ngiệp lập trình của em.
  
  
